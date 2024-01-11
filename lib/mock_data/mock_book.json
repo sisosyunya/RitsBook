@@ -1,0 +1,72 @@
+  [
+    {
+      "id": 1,
+      "title": "教科書1",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "新品",
+      "isSold": false
+    },
+    {
+      "id": 2,
+      "title": "教科書2",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "目立った傷なし",
+      "isSold": false
+    },
+    {
+      "id": 3,
+      "title": "教科書3",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "新品",
+      "isSold": false
+    },
+    {
+      "id": 4,
+      "title": "教科書4",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "新品",
+      "isSold": false
+    },
+    {
+      "id": 5,
+      "title": "教科書5",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "新品",
+      "isSold": true
+    },
+    {
+      "id": 6,
+      "title": "教科書6",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "新品",
+      "isSold": false
+    },
+    {
+      "id": 7,
+      "title": "教科書7",
+      "author": "出品者",
+      "descripton": "説明",
+      "price": 1000,
+      "imageUrl": "https://picsum.photos/200/300",
+      "condition": "新品",
+      "isSold": false
+    }
+  ]
